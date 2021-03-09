@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 void setup() { 
-  ///krips///
+  ///kripss///
   // put your setup code here, to run once:
 }
 
